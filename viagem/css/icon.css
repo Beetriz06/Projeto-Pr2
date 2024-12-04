@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.icon {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.icon button {
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+    border: none;
+    background-color: #fff268;
+    cursor: pointer;
+}
+.icon button i{
+    font-size: x-large;
+    color: white;
+}
